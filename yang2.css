@@ -1,0 +1,40 @@
+#title{
+    background-color:rgb(194, 124, 136);
+    font-family: 'Times New Roman',"楷体"
+    font-weight: 100px;
+    text-align: center;
+    font-size: 15px;
+    top:0;
+    border-width:0em;
+    line-height: 22px;
+    background-size: 0cm;
+}
+
+    img {
+        animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+        background: transparent;
+        border: 10px solid rgba(0, 0, 0, 0.12);
+        border-radius: 4px;
+        display: block;
+        margin: 1.3em auto;
+        max: width 10%;
+}
+#content{
+    font-family:'Times New Roman',"楷体";
+    font-weight: 100px;
+    text-align:justify;
+    font-size: 19px;
+    color: black;
+    line-height: 45px;
+    text-indent: 2em;
+    white-space: pre-wrap;
+    margin: 55px;
+}
+
+#footer{
+    background-color:rgb(128, 118, 110);
+    height:45px;
+    text-align: center;
+    font-family: 'Times New Rome';
+    
+}
